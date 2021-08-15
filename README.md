@@ -1,4 +1,4 @@
-## vite-jest
+## vite-jest-eslint
 
 ### run
 
