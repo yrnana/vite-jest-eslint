@@ -1,0 +1,10 @@
+.toggle-button {
+  padding: 1rem;
+  border: 1px solid yellow;
+  background: yellow;
+  &.active {
+    color: #fff;
+    background: red;
+    border-color: red;
+  }
+}
